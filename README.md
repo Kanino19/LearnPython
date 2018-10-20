@@ -39,11 +39,6 @@ Configurar git
 	C:\Users\Joseph> git config --global user.name "Joseph Kahn"
 	C:\Users\Joseph> git config --global user.email "email@gmail.com"
 
-Uso de git\n
-
-PASO 5 ! ----- Clonar el repositorio
-Entrar al repositorio el cual se desea descargar.
-	y 
 	
 
 
