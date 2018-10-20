@@ -28,7 +28,7 @@ Crear la carpeta(escribir el texto despues del simbolo ">"):
 Entrar en la carpeta:
 	C:\Users\Joseph> cd .ssh
 Generar clave SSH:
-	C:\Users\Joseph\.ssh> ssh-keygen -t rsa -b 4096 -C "juiskahn@gmail.com"
+	C:\Users\Joseph\.ssh> ssh-keygen -t rsa -b 4096 -C "tu_email@gmail.com"
 
 Genera dos archivos (id_rsa y id_rsa.pub) en la carpeta .ssh	
 Abrir id_rsa.pub con sublime o blog de notas
@@ -39,7 +39,7 @@ Copiar el contenido del archivo id_rsa.pub en el setting/SSH key
 PASO 4 ! ----- Configuracion clave Git
 Configurar git
 	C:\Users\Joseph> git config --global user.name "Joseph Kahn"
-	C:\Users\Joseph> git config --global user.email "juiskahn@gmail.com"
+	C:\Users\Joseph> git config --global user.email "tu_email@gmail.com"
 
 
 PASO 5 ! ----- Clonar el repositorio 
